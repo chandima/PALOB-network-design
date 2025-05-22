@@ -1,0 +1,6519 @@
+{
+  "accesspoints": [
+    {
+      "name": "Access Point 1",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 144,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 77,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1613.249562,
+            "y": 847.55265,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 14.387277,
+            "y": 7.558641,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 47.20178,
+            "y": 24.798391,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1613.249562,
+        "y": 847.55265,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 2",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 140,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 37,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2448.748849,
+            "y": 1175.803938,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 21.838425,
+            "y": 10.486051,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 71.647503,
+            "y": 34.402637,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2448.748849,
+        "y": 1175.803938,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 3",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 124,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 117,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1598.952398,
+            "y": 1715.317264,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 14.259772,
+            "y": 15.297537,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 46.783461,
+            "y": 50.18816,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1598.952398,
+        "y": 1715.317264,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 4",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 40,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 69,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2447.912943,
+            "y": 2840.410503,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 21.83097,
+            "y": 25.33134,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 71.623046,
+            "y": 83.107061,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2447.912943,
+        "y": 2840.410503,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 5",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 108,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 173,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1614.827507,
+            "y": 3301.464741,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 14.40135,
+            "y": 29.443113,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 47.247948,
+            "y": 96.596965,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1614.827507,
+        "y": 3301.464741,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 6",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 100,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 181,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2445.231761,
+            "y": 3581.128681,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 21.807058,
+            "y": 31.937211,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 71.544597,
+            "y": 104.779602,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2445.231761,
+        "y": 3581.128681,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 7",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 128,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 53,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2446.838445,
+            "y": 2100.465482,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 21.821387,
+            "y": 18.732365,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 71.591607,
+            "y": 61.457143,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2446.838445,
+        "y": 2100.465482,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 9",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 116,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 213,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 3598.250881,
+            "y": 4563.225602,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 32.08991,
+            "y": 40.695745,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 105.280577,
+            "y": 133.514599,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 3598.250881,
+        "y": 4563.225602,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 10",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 36,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 109,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 3975.171068,
+            "y": 3722.123669,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 35.451359,
+            "y": 33.194632,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 116.308817,
+            "y": 108.904949,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 3975.171068,
+        "y": 3722.123669,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 8",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 60,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 61,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 3153.457718,
+            "y": 3756.391492,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 28.123157,
+            "y": 33.500239,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 92.266454,
+            "y": 109.907585,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 3153.457718,
+        "y": 3756.391492,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 11",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 52,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 221,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 4467.149153,
+            "y": 4552.881575,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 39.838916,
+            "y": 40.603495,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 130.703516,
+            "y": 133.211945,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 4467.149153,
+        "y": 4552.881575,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 12",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 149,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 5,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 5346.391452,
+            "y": 4573.569629,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 47.680172,
+            "y": 40.787995,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 156.429108,
+            "y": 133.817253,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 5346.391452,
+        "y": 4573.569629,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 13",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 161,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 45,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 4870.566207,
+            "y": 3730.531425,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 43.436669,
+            "y": 33.269614,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 142.507023,
+            "y": 109.15095,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 4870.566207,
+        "y": 3730.531425,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 15",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 112,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 93,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 6189.429656,
+            "y": 4563.225602,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 55.198553,
+            "y": 40.695745,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 181.095412,
+            "y": 133.514599,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 6189.429656,
+        "y": 4563.225602,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 14",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 153,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 29,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 5729.120452,
+            "y": 3756.391492,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 51.093425,
+            "y": 33.500239,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 167.627308,
+            "y": 109.907585,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 5729.120452,
+        "y": 3756.391492,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 16",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 157,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 165,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1607.025674,
+            "y": 2685.784693,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 14.331772,
+            "y": 23.952357,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 47.019676,
+            "y": 78.582893,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1607.025674,
+        "y": 2685.784693,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 25",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 44,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 189,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1736.434109,
+            "y": 4565.891473,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 15.485861,
+            "y": 40.71952,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 50.806014,
+            "y": 133.5926,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1736.434109,
+        "y": 4565.891473,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 50",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 136,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 125,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2534.883721,
+            "y": 4410.852713,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 22.606592,
+            "y": 39.336853,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 74.167708,
+            "y": 129.056348,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2534.883721,
+        "y": 4410.852713,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 52",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c460e",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 120,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 101,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "orientation": { "rotation": 180 },
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 3819.234374,
+            "y": 3255.468739,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 34.060684,
+            "y": 29.032911,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 111.746293,
+            "y": 95.251176,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 3819.234374,
+        "y": 3255.468739,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 53",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c460e",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 165,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 21,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "orientation": { "rotation": 90 },
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2941.788053,
+            "y": 664.857128,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 26.235445,
+            "y": 5.929327,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 86.073249,
+            "y": 19.452935,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2941.788053,
+        "y": 664.857128,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 51",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c460e",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 48,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 197,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "orientation": { "rotation": 180 },
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 5517.628878,
+            "y": 3232.274594,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 49.207301,
+            "y": 28.826061,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 161.439314,
+            "y": 94.572543,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 5517.628878,
+        "y": 3232.274594,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 54",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c460e",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 56,
+          "channel_width": "20_MHz",
+          "transmit_power": 10,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 157,
+          "channel_width": "40_MHz",
+          "transmit_power": 12,
+          "mimo_chains": 4
+        }
+      ],
+      "orientation": { "rotation": 270 },
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2857.111848,
+            "y": 3640.403646,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 25.480286,
+            "y": 32.465837,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 83.595723,
+            "y": 106.513917,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2857.111848,
+        "y": 3640.403646,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 55",
+      "floorplan_name": "1st Floor",
+      "manufacturer": "arista",
+      "model": "c460e",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 104,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 149,
+          "channel_width": "40_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "orientation": { "rotation": 95 },
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2941.735874,
+            "y": 2389.439786,
+            "z": 280.325721,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 26.23498,
+            "y": 21.309495,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 86.071722,
+            "y": 69.91219,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2941.735874,
+        "y": 2389.439786,
+        "z": 280.325721,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 17",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 100,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 21,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 3085.271318,
+            "y": 4147.286822,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 22.639174,
+            "y": 30.432055,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 74.274601,
+            "y": 99.841487,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 3085.271318,
+        "y": 4147.286822,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 18",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 108,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 69,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 4138.916861,
+            "y": 4174.25077,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 30.370638,
+            "y": 30.629912,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 99.639989,
+            "y": 100.490615,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 4138.916861,
+        "y": 4174.25077,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 19",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 140,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 117,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 5195.034494,
+            "y": 4182.62073,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 38.120242,
+            "y": 30.691329,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 125.06489,
+            "y": 100.692113,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 5195.034494,
+        "y": 4182.62073,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 20",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 60,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 149,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 6225.424224,
+            "y": 4164.026742,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 45.681059,
+            "y": 30.55489,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 149.870418,
+            "y": 100.244483,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 6225.424224,
+        "y": 4164.026742,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 21",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 52,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 213,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 3695.820351,
+            "y": 5199.360651,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 27.119274,
+            "y": 38.151986,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 88.972915,
+            "y": 125.169037,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 3695.820351,
+        "y": 5199.360651,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 22",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 157,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 5,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 4704.808334,
+            "y": 5201.832741,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 34.523049,
+            "y": 38.170126,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 113.26322,
+            "y": 125.22855,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 4704.808334,
+        "y": 5201.832741,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 23",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 36,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 165,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 5749.465895,
+            "y": 5199.078298,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 42.188561,
+            "y": 38.149915,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 138.412232,
+            "y": 125.16224,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 5749.465895,
+        "y": 5199.078298,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 24",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 149,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 197,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 6821.705426,
+            "y": 5215.482549,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 50.056465,
+            "y": 38.270286,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 164.225249,
+            "y": 125.557155,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 6821.705426,
+        "y": 5215.482549,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 26",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 44,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 101,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2240.742075,
+            "y": 3981.667576,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 16.442168,
+            "y": 29.216771,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 53.943465,
+            "y": 95.854381,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2240.742075,
+        "y": 3981.667576,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 27",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 52,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 85,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1224.806202,
+            "y": 641.381155,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 8.987411,
+            "y": 4.706341,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 29.485897,
+            "y": 15.440564,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1224.806202,
+        "y": 641.381155,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 28",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 124,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 213,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2221.545656,
+            "y": 1233.422134,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 16.301308,
+            "y": 9.050633,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 53.481332,
+            "y": 29.693316,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2221.545656,
+        "y": 1233.422134,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 29",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 157,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 133,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1198.289842,
+            "y": 1687.52593,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 8.792838,
+            "y": 12.382766,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 28.847544,
+            "y": 40.625379,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1198.289842,
+        "y": 1687.52593,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 30",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 149,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 53,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2239.511227,
+            "y": 2279.998907,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 16.433136,
+            "y": 16.730228,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 53.913833,
+            "y": 54.888531,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2239.511227,
+        "y": 2279.998907,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 31",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 116,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 197,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1215.823416,
+            "y": 2782.212031,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 8.921497,
+            "y": 20.415379,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 29.269646,
+            "y": 66.978774,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1215.823416,
+        "y": 2782.212031,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 32",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 36,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 37,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1196.157899,
+            "y": 3959.202473,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 8.777195,
+            "y": 29.051926,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 28.79622,
+            "y": 95.313558,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1196.157899,
+        "y": 3959.202473,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 33",
+      "floorplan_name": "2nd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 132,
+          "channel_width": "40_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 181,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2222.279362,
+            "y": 3327.676238,
+            "z": 340.70052,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 16.306692,
+            "y": 24.417898,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 53.498995,
+            "y": 80.11024,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2222.279362,
+        "y": 3327.676238,
+        "z": 340.70052,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 34",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 56,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 133,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 3077.51938,
+            "y": 4155.03876,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 22.594283,
+            "y": 30.505128,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 74.127324,
+            "y": 100.081223,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 3077.51938,
+        "y": 4155.03876,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 47",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 124,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 53,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1217.054264,
+            "y": 1713.178295,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 8.935271,
+            "y": 12.577674,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 29.314836,
+            "y": 41.264833,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1217.054264,
+        "y": 1713.178295,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 38",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 60,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 37,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 5191.45879,
+            "y": 4165.130357,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 38.114232,
+            "y": 30.579217,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 125.045174,
+            "y": 100.324296,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 5191.45879,
+        "y": 4165.130357,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 39",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 36,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 69,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 5728.682171,
+            "y": 5193.79845,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 42.058376,
+            "y": 38.13141,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 137.985119,
+            "y": 125.101529,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 5728.682171,
+        "y": 5193.79845,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 40",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 52,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 197,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 6217.054264,
+            "y": 4155.03876,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 45.643866,
+            "y": 30.505128,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 149.748397,
+            "y": 100.081223,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 6217.054264,
+        "y": 4155.03876,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 41",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 132,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 149,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 6751.937984,
+            "y": 5201.550388,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 49.570832,
+            "y": 38.188322,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 162.631987,
+            "y": 125.288247,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 6751.937984,
+        "y": 5201.550388,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 36",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 108,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 85,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 4119.351689,
+            "y": 4162.790698,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 30.243123,
+            "y": 30.56204,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 99.221639,
+            "y": 100.267942,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 4119.351689,
+        "y": 4162.790698,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 37",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 112,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 5,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 4705.426357,
+            "y": 5209.302326,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 34.545919,
+            "y": 38.245235,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 113.338251,
+            "y": 125.474966,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 4705.426357,
+        "y": 5209.302326,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 35",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 165,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 117,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 3627.906977,
+            "y": 5193.79845,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 26.635074,
+            "y": 38.13141,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 87.384351,
+            "y": 125.101529,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 3627.906977,
+        "y": 5193.79845,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 43",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 120,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 181,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2248.062016,
+            "y": 3943.763255,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 16.50464,
+            "y": 28.954002,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 54.148423,
+            "y": 94.992291,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2248.062016,
+        "y": 3943.763255,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 44",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 116,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 213,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2229.852,
+            "y": 3308.470821,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 16.370947,
+            "y": 24.289864,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 53.709803,
+            "y": 79.690185,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2229.852,
+        "y": 3308.470821,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 42",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 136,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 69,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1195.517074,
+            "y": 3975.715268,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 8.777151,
+            "y": 29.188585,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 28.796076,
+            "y": 95.76191,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1195.517074,
+        "y": 3975.715268,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 45",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 161,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 165,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1209.302326,
+            "y": 2751.937984,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 8.878358,
+            "y": 20.203956,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 29.128117,
+            "y": 66.285138,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1209.302326,
+        "y": 2751.937984,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 46",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "DISABLED",
+          "band": "FREQ_2.4GHZ",
+          "channel": 11,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 64,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 21,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2219.393923,
+            "y": 2244.848618,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 16.294167,
+            "y": 16.481048,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 53.457903,
+            "y": 54.071023,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2219.393923,
+        "y": 2244.848618,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 48",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 1,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 149,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 101,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 2214.348124,
+            "y": 1226.638603,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 16.257122,
+            "y": 9.005636,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 53.336366,
+            "y": 29.545691,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 2214.348124,
+        "y": 1226.638603,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    },
+    {
+      "name": "Access Point 49",
+      "floorplan_name": "3rd Floor",
+      "manufacturer": "arista",
+      "model": "c360",
+      "dot11_radios": [
+        {
+          "id": 0,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_2.4GHZ",
+          "channel": 6,
+          "channel_width": "20_MHz",
+          "transmit_power": 6,
+          "mimo_chains": 4
+        },
+        {
+          "id": 1,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_5GHZ",
+          "channel": 100,
+          "channel_width": "20_MHz",
+          "transmit_power": 14,
+          "mimo_chains": 4
+        },
+        {
+          "id": 2,
+          "radio_function": "CLIENT_ACCESS",
+          "band": "FREQ_6GHZ",
+          "channel": 149,
+          "channel_width": "80_MHz",
+          "transmit_power": 17,
+          "mimo_chains": 4
+        }
+      ],
+      "coordinates": [
+        {
+          "coordinate_xyz": {
+            "x": 1240.310078,
+            "y": 620.155039,
+            "z": 340.519699,
+            "unit": "pixels"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 9.106008,
+            "y": 4.553004,
+            "z": 2.5,
+            "unit": "meters"
+          }
+        },
+        {
+          "coordinate_xyz": {
+            "x": 29.874992,
+            "y": 14.937496,
+            "z": 8.202,
+            "unit": "feet"
+          }
+        }
+      ],
+      "coordinate_xyz": {
+        "x": 1240.310078,
+        "y": 620.155039,
+        "z": 340.519699,
+        "unit": "pixels"
+      }
+    }
+  ],
+  "floorplans": [
+    {
+      "name": "1st Floor",
+      "map_uri": "file://images/PALOB_1st Floor.png",
+      "project_name": "PALOB",
+      "floor_id": "cd2a871a-f69b-4048-a1ba-3bc9913b800f",
+      "rotation": 0,
+      "dimensions": [
+        { "length": 6000, "width": 8000, "unit": "pixels" },
+        {
+          "length": 53.50918183334885,
+          "width": 71.34557577779846,
+          "height": 2.5,
+          "unit": "meters"
+        },
+        {
+          "length": 175.5529237588509,
+          "width": 234.0705650118012,
+          "height": 8.202,
+          "unit": "feet"
+        }
+      ],
+      "wall_segments": [
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1330.698802, "y": 4876.412588 },
+          "end_point": { "x": 2123.708846, "y": 4876.412588 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2123.708846, "y": 4876.412588 },
+          "end_point": { "x": 2123.708846, "y": 4035.570192 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2123.708846, "y": 4035.570192 },
+          "end_point": { "x": 1781.329906, "y": 4035.570192 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1781.329906, "y": 4035.570192 },
+          "end_point": { "x": 1781.329906, "y": 4309.976842 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1781.329906, "y": 4309.976842 },
+          "end_point": { "x": 1330.698802, "y": 4309.976842 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1330.698802, "y": 4309.976842 },
+          "end_point": { "x": 1330.698802, "y": 4876.412588 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1861.889656, "y": 3871.933199 },
+          "end_point": { "x": 1330.698802, "y": 3871.933199 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 1769.827209 },
+          "end_point": { "x": 1861.889656, "y": 1309.1261359999999 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 1309.1261359999999 },
+          "end_point": { "x": 2186.646151, "y": 1309.1261359999999 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 1309.1261359999999 },
+          "end_point": { "x": 2186.646151, "y": 1769.827209 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2717.837005, "y": 3871.933199 },
+          "end_point": { "x": 2186.646151, "y": 3871.933199 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2186.646151, "y": 3871.933199 },
+          "end_point": { "x": 1861.889656, "y": 3871.933199 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 3871.933199 },
+          "end_point": { "x": 2186.646151, "y": 3340.742344 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2717.837005, "y": 3340.742344 },
+          "end_point": { "x": 2717.837005, "y": 3871.933199 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 3340.742344 },
+          "end_point": { "x": 2717.837005, "y": 3340.742344 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 3871.933199 },
+          "end_point": { "x": 1861.889656, "y": 3272.770055 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 3340.742344 },
+          "end_point": { "x": 2186.646151, "y": 3272.770055 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 3272.770055 },
+          "end_point": { "x": 2186.646151, "y": 3272.770055 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 3272.770055 },
+          "end_point": { "x": 1861.889656, "y": 3056.265725 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 3272.770055 },
+          "end_point": { "x": 2186.646151, "y": 3056.265725 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 3056.265725 },
+          "end_point": { "x": 2186.646151, "y": 2917.803654 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 3056.265725 },
+          "end_point": { "x": 2186.646151, "y": 3056.265725 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 2661.019449 },
+          "end_point": { "x": 1861.889656, "y": 2175.143454 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 2776.824091 },
+          "end_point": { "x": 2186.646151, "y": 2661.019449 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 2661.019449 },
+          "end_point": { "x": 2186.646151, "y": 2661.019449 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2717.837005, "y": 2409.270229 },
+          "end_point": { "x": 2717.837005, "y": 3340.742344 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1330.698802, "y": 2409.270229 },
+          "end_point": { "x": 2717.837005, "y": 2409.270229 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1330.698802, "y": 2409.270229 },
+          "end_point": { "x": 1330.698802, "y": 2021.57643 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1330.698802, "y": 2021.57643 },
+          "end_point": { "x": 1605.105452, "y": 2021.57643 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1605.105452, "y": 2021.57643 },
+          "end_point": { "x": 1605.105452, "y": 1948.569156 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 1948.569156 },
+          "end_point": { "x": 1861.889656, "y": 1868.0094049999998 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1605.105452, "y": 1948.569156 },
+          "end_point": { "x": 1861.889656, "y": 1948.569156 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2717.837005, "y": 2021.57643 },
+          "end_point": { "x": 2717.837005, "y": 2409.270229 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2717.837005, "y": 2021.57643 },
+          "end_point": { "x": 2450.982832, "y": 2021.57643 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2450.982832, "y": 2021.57643 },
+          "end_point": { "x": 2450.982832, "y": 1948.569156 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 1948.569156 },
+          "end_point": { "x": 2186.646151, "y": 1883.1143590000001 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2450.982832, "y": 1948.569156 },
+          "end_point": { "x": 2186.646151, "y": 1948.569156 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 1769.827209 },
+          "end_point": { "x": 2024.483328, "y": 1769.827209 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2024.483328, "y": 1769.827209 },
+          "end_point": { "x": 1861.889656, "y": 1769.827209 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2024.483328, "y": 2069.408782 },
+          "end_point": { "x": 2024.483328, "y": 1769.827209 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 2069.408782 },
+          "end_point": { "x": 1861.889656, "y": 1980.0424240000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 1980.0424240000002 },
+          "end_point": { "x": 1861.889656, "y": 1948.569156 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 2661.019449 },
+          "end_point": { "x": 2186.646151, "y": 1980.0424240000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 1980.0424240000002 },
+          "end_point": { "x": 2186.646151, "y": 1948.569156 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 1980.0424240000002 },
+          "end_point": { "x": 2186.646151, "y": 1980.0424240000002 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1330.698802, "y": 2021.57643 },
+          "end_point": { "x": 1330.698802, "y": 1541.2747929999996 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1330.698802, "y": 1541.2747929999996 },
+          "end_point": { "x": 1330.698802, "y": 1143.7849530000003 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1330.698802, "y": 1143.7849530000003 },
+          "end_point": { "x": 1330.698802, "y": 664.6481320000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1604.061382, "y": 1079.5750559999997 },
+          "end_point": { "x": 1861.889656, "y": 1079.5750559999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 1203.408429 },
+          "end_point": { "x": 1861.889656, "y": 1012.3075440000002 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1330.698802, "y": 664.6481320000003 },
+          "end_point": { "x": 1861.889656, "y": 664.6481320000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 912.9350839999997 },
+          "end_point": { "x": 1861.889656, "y": 664.6481320000003 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2717.837005, "y": 664.6481320000003 },
+          "end_point": { "x": 2717.837005, "y": 1541.2747929999996 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2717.837005, "y": 1541.2747929999996 },
+          "end_point": { "x": 2717.837005, "y": 2021.57643 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1330.698802, "y": 1541.2747929999996 },
+          "end_point": { "x": 2717.837005, "y": 1541.2747929999996 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1604.061382, "y": 1143.7849530000003 },
+          "end_point": { "x": 1604.061382, "y": 1079.5750559999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2027.540943, "y": 912.9350839999997 },
+          "end_point": { "x": 1861.889656, "y": 912.9350839999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1330.698802, "y": 1143.7849530000003 },
+          "end_point": { "x": 1604.061382, "y": 1143.7849530000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2027.540943, "y": 1203.408429 },
+          "end_point": { "x": 2027.540943, "y": 1111.6800039999998 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2027.540943, "y": 1111.6800039999998 },
+          "end_point": { "x": 2027.540943, "y": 912.9350839999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2027.540943, "y": 1111.6800039999998 },
+          "end_point": { "x": 2186.646151, "y": 1111.6800039999998 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1861.889656, "y": 664.6481320000003 },
+          "end_point": { "x": 2186.646151, "y": 664.6481320000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2186.646151, "y": 1203.408429 },
+          "end_point": { "x": 2186.646151, "y": 664.6481320000003 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2186.646151, "y": 664.6481320000003 },
+          "end_point": { "x": 2408.213905, "y": 664.6481320000003 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2408.213905, "y": 664.6481320000003 },
+          "end_point": { "x": 2717.837005, "y": 664.6481320000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2408.213905, "y": 767.6984119999997 },
+          "end_point": { "x": 2408.213905, "y": 664.6481320000003 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1330.698802, "y": 3871.933199 },
+          "end_point": { "x": 1330.698802, "y": 3022.68885 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1330.698802, "y": 3022.68885 },
+          "end_point": { "x": 1330.698802, "y": 2409.270229 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 3056.265725 },
+          "end_point": { "x": 1861.889656, "y": 3022.68885 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1861.889656, "y": 3022.68885 },
+          "end_point": { "x": 1861.889656, "y": 2661.019449 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1330.698802, "y": 3022.68885 },
+          "end_point": { "x": 1861.889656, "y": 3022.68885 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3333.141386, "y": 4876.708442 },
+          "end_point": { "x": 2924.271366, "y": 4876.412588 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3333.141386, "y": 4876.708442 },
+          "end_point": { "x": 3333.141386, "y": 4609.590596 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3333.141386, "y": 4609.590596 },
+          "end_point": { "x": 3403.467312, "y": 4609.590596 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3403.467312, "y": 4609.590596 },
+          "end_point": { "x": 3403.467312, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4198.441314, "y": 4877.334563 },
+          "end_point": { "x": 4198.441314, "y": 4609.590596 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4198.441314, "y": 4609.590596 },
+          "end_point": { "x": 4265.714503, "y": 4609.590596 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4265.714503, "y": 4609.590596 },
+          "end_point": { "x": 4265.714503, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5062.222391, "y": 4877.959586 },
+          "end_point": { "x": 5062.222391, "y": 4609.590596 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5062.222391, "y": 4609.590596 },
+          "end_point": { "x": 5129.490501, "y": 4609.590596 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5129.490501, "y": 4609.590596 },
+          "end_point": { "x": 5129.490501, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 6403.445591, "y": 4878.93008 },
+          "end_point": { "x": 5926.000149, "y": 4878.584606 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5926.000149, "y": 4878.584606 },
+          "end_point": { "x": 5926.000149, "y": 4609.590596 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5926.000149, "y": 4609.590596 },
+          "end_point": { "x": 5996.324114, "y": 4609.590596 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5996.324114, "y": 4609.590596 },
+          "end_point": { "x": 5996.324114, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 6403.445591, "y": 4348.164586 },
+          "end_point": { "x": 6403.445591, "y": 4878.93008 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6167.550506, "y": 4348.164586 },
+          "end_point": { "x": 6403.445591, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 6403.445591, "y": 3486.756892 },
+          "end_point": { "x": 6403.445591, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 6403.445591, "y": 4014.8846430000003 },
+          "end_point": { "x": 6403.445591, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6167.550506, "y": 4014.8846430000003 },
+          "end_point": { "x": 6403.445591, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5296.130473, "y": 4014.8846430000003 },
+          "end_point": { "x": 5767.003052, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5767.003052, "y": 4348.164586 },
+          "end_point": { "x": 5296.130473, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5767.003052, "y": 4014.8846430000003 },
+          "end_point": { "x": 5767.003052, "y": 4179.995807 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5767.003052, "y": 4179.995807 },
+          "end_point": { "x": 5767.003052, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6167.550506, "y": 4348.164586 },
+          "end_point": { "x": 6167.550506, "y": 4179.995807 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6167.550506, "y": 4179.995807 },
+          "end_point": { "x": 6167.550506, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5767.003052, "y": 4179.995807 },
+          "end_point": { "x": 6167.550506, "y": 4179.995807 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5007.185935, "y": 4348.164586 },
+          "end_point": { "x": 5100.443167, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5872.49074, "y": 4348.164586 },
+          "end_point": { "x": 5964.219165, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5964.219165, "y": 4348.164586 },
+          "end_point": { "x": 6063.591625, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5872.49074, "y": 4014.8846430000003 },
+          "end_point": { "x": 5964.219165, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5964.219165, "y": 4348.164586 },
+          "end_point": { "x": 5964.219165, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5296.130473, "y": 4348.164586 },
+          "end_point": { "x": 5296.130473, "y": 4179.995807 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5296.130473, "y": 4179.995807 },
+          "end_point": { "x": 5296.130473, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5296.130473, "y": 4179.995807 },
+          "end_point": { "x": 4904.755861, "y": 4179.995807 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4904.755861, "y": 4179.995807 },
+          "end_point": { "x": 4904.755861, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4432.354474, "y": 4014.8846430000003 },
+          "end_point": { "x": 4904.755861, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2924.271366, "y": 4876.412588 },
+          "end_point": { "x": 2924.271366, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2924.271366, "y": 4348.164586 },
+          "end_point": { "x": 3171.088636, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2924.271366, "y": 4348.164586 },
+          "end_point": { "x": 2924.271366, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2924.271366, "y": 4014.8846430000003 },
+          "end_point": { "x": 2924.271366, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3171.088636, "y": 4014.8846430000003 },
+          "end_point": { "x": 2924.271366, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3371.362363, "y": 4014.8846430000003 },
+          "end_point": { "x": 3403.467312, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3403.467312, "y": 4014.8846430000003 },
+          "end_point": { "x": 3470.734823, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3403.467312, "y": 4014.8846430000003 },
+          "end_point": { "x": 3403.467312, "y": 3761.102668 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3331.613379, "y": 3486.756892 },
+          "end_point": { "x": 4199.975799, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4199.975799, "y": 3486.756892 },
+          "end_point": { "x": 4199.975799, "y": 3762.631475 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4317.693943, "y": 4014.8846430000003 },
+          "end_point": { "x": 4265.714503, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4265.714503, "y": 4014.8846430000003 },
+          "end_point": { "x": 4235.138361, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4265.714503, "y": 3762.631475 },
+          "end_point": { "x": 4265.714503, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5129.490501, "y": 3762.631475 },
+          "end_point": { "x": 5060.694183, "y": 3762.631475 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5530.214549, "y": 3486.756892 },
+          "end_point": { "x": 5927.527795, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5530.214549, "y": 4878.29822 },
+          "end_point": { "x": 5530.214549, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5062.222391, "y": 4877.959586 },
+          "end_point": { "x": 4667.627421, "y": 4877.674061 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4667.627421, "y": 4877.674061 },
+          "end_point": { "x": 4198.441314, "y": 4877.334563 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4199.975799, "y": 3486.756892 },
+          "end_point": { "x": 4667.627421, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4667.627421, "y": 3486.756892 },
+          "end_point": { "x": 5060.694183, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4667.627421, "y": 4877.674061 },
+          "end_point": { "x": 4667.627421, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5100.443167, "y": 4348.164586 },
+          "end_point": { "x": 5193.700398, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5100.443167, "y": 4014.8846430000003 },
+          "end_point": { "x": 4998.013093, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5100.443167, "y": 4348.164586 },
+          "end_point": { "x": 5100.443167, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4904.755861, "y": 4348.164586 },
+          "end_point": { "x": 4432.354474, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4904.755861, "y": 4014.8846430000003 },
+          "end_point": { "x": 4904.755861, "y": 4179.995807 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4140.352323, "y": 4348.164586 },
+          "end_point": { "x": 4235.138361, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4235.138361, "y": 4348.164586 },
+          "end_point": { "x": 4326.866786, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4235.138361, "y": 4014.8846430000003 },
+          "end_point": { "x": 4140.352323, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4235.138361, "y": 4348.164586 },
+          "end_point": { "x": 4235.138361, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4432.354474, "y": 4348.164586 },
+          "end_point": { "x": 4432.354474, "y": 4187.6398420000005 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4432.354474, "y": 4187.6398420000005 },
+          "end_point": { "x": 4432.354474, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4432.354474, "y": 4187.6398420000005 },
+          "end_point": { "x": 4033.335827, "y": 4187.6398420000005 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4033.335827, "y": 4187.6398420000005 },
+          "end_point": { "x": 4033.335827, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4033.335827, "y": 4348.164586 },
+          "end_point": { "x": 3567.049669, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4033.335827, "y": 4014.8846430000003 },
+          "end_point": { "x": 4033.335827, "y": 4187.6398420000005 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4198.441314, "y": 4877.334563 },
+          "end_point": { "x": 3802.487125, "y": 4877.048055 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3802.487125, "y": 4877.048055 },
+          "end_point": { "x": 3333.141386, "y": 4876.708442 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3567.049669, "y": 4014.8846430000003 },
+          "end_point": { "x": 3802.487125, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3802.487125, "y": 4014.8846430000003 },
+          "end_point": { "x": 4033.335827, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3802.487125, "y": 4877.048055 },
+          "end_point": { "x": 3802.487125, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3171.088636, "y": 4348.164586 },
+          "end_point": { "x": 3171.088636, "y": 4179.995807 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3171.088636, "y": 4179.995807 },
+          "end_point": { "x": 3171.088636, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3567.049669, "y": 4348.164586 },
+          "end_point": { "x": 3567.049669, "y": 4179.995807 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3567.049669, "y": 4179.995807 },
+          "end_point": { "x": 3567.049669, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3171.088636, "y": 4179.995807 },
+          "end_point": { "x": 3567.049669, "y": 4179.995807 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3270.461096, "y": 4348.164586 },
+          "end_point": { "x": 3371.362363, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3371.362363, "y": 4348.164586 },
+          "end_point": { "x": 3470.734823, "y": 4348.164586 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3270.461096, "y": 4014.8846430000003 },
+          "end_point": { "x": 3371.362363, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3371.362363, "y": 4348.164586 },
+          "end_point": { "x": 3371.362363, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3403.467312, "y": 3761.102668 },
+          "end_point": { "x": 3331.613379, "y": 3761.102668 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2924.271366, "y": 3486.756892 },
+          "end_point": { "x": 3331.613379, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3331.613379, "y": 3761.102668 },
+          "end_point": { "x": 3331.613379, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4199.975799, "y": 3762.631475 },
+          "end_point": { "x": 4265.714503, "y": 3762.631475 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5193.700398, "y": 4014.8846430000003 },
+          "end_point": { "x": 5129.490501, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5129.490501, "y": 4014.8846430000003 },
+          "end_point": { "x": 5100.443167, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5129.490501, "y": 4014.8846430000003 },
+          "end_point": { "x": 5129.490501, "y": 3762.631475 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5060.694183, "y": 3762.631475 },
+          "end_point": { "x": 5060.694183, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5964.219165, "y": 4014.8846430000003 },
+          "end_point": { "x": 5996.324114, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5996.324114, "y": 4014.8846430000003 },
+          "end_point": { "x": 6063.591625, "y": 4014.8846430000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5996.324114, "y": 4014.8846430000003 },
+          "end_point": { "x": 5996.324114, "y": 3762.631475 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5996.324114, "y": 3762.631475 },
+          "end_point": { "x": 5927.527795, "y": 3762.631475 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5927.527795, "y": 3486.756892 },
+          "end_point": { "x": 6403.445591, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5927.527795, "y": 3762.631475 },
+          "end_point": { "x": 5927.527795, "y": 3486.756892 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5926.000149, "y": 4878.584606 },
+          "end_point": { "x": 5530.214549, "y": 4878.29822 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5530.214549, "y": 4878.29822 },
+          "end_point": { "x": 5062.222391, "y": 4877.959586 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5060.694183, "y": 3486.756892 },
+          "end_point": { "x": 5530.214549, "y": 3486.756892 }
+        }
+      ]
+    },
+    {
+      "name": "2nd Floor",
+      "map_uri": "file://images/PALOB_2nd Floor.png",
+      "project_name": "PALOB",
+      "floor_id": "baff1cff-9b5a-488a-8363-3b9af64a6a5d",
+      "rotation": 0,
+      "dimensions": [
+        { "length": 6000, "width": 8000, "unit": "pixels" },
+        {
+          "length": 44.02693602068754,
+          "width": 58.702581360916724,
+          "height": 2.5,
+          "unit": "meters"
+        },
+        {
+          "length": 144.4435716966717,
+          "width": 192.5914289288956,
+          "height": 8.202,
+          "unit": "feet"
+        }
+      ],
+      "wall_segments": [
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 869.958973, "y": 4361.50151 },
+          "end_point": { "x": 1511.947112, "y": 4361.50151 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 4361.50151 },
+          "end_point": { "x": 1511.947112, "y": 3355.517685 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1511.947112, "y": 4361.50151 },
+          "end_point": { "x": 1913.5217, "y": 4361.50151 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1913.5217, "y": 4361.50151 },
+          "end_point": { "x": 2560.723883, "y": 4361.50151 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 3355.517685 },
+          "end_point": { "x": 1913.5217, "y": 4361.50151 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 870.581067, "y": 3629.296517 },
+          "end_point": { "x": 869.958973, "y": 4361.50151 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2560.723883, "y": 4361.50151 },
+          "end_point": { "x": 2560.723883, "y": 3629.296517 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 870.581067, "y": 3629.296517 },
+          "end_point": { "x": 2560.723883, "y": 3629.296517 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 2853.293399 },
+          "end_point": { "x": 1511.947112, "y": 2301.631124 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 2301.631124 },
+          "end_point": { "x": 1913.5217, "y": 2853.293399 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 871.474722, "y": 2577.464329 },
+          "end_point": { "x": 2560.723883, "y": 2577.464329 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 3355.517685 },
+          "end_point": { "x": 1712.344856, "y": 3355.517685 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 3355.517685 },
+          "end_point": { "x": 1913.5217, "y": 3355.517685 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 2853.293399 },
+          "end_point": { "x": 1712.344856, "y": 2853.293399 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 2853.293399 },
+          "end_point": { "x": 1511.947112, "y": 2853.293399 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 3355.517685 },
+          "end_point": { "x": 1712.344856, "y": 2853.293399 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 871.474722, "y": 2577.464329 },
+          "end_point": { "x": 870.992479, "y": 3145.064714 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 870.992479, "y": 3145.064714 },
+          "end_point": { "x": 870.581067, "y": 3629.296517 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 870.992479, "y": 3145.064714 },
+          "end_point": { "x": 1200.226745, "y": 3145.064714 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1200.226745, "y": 3145.064714 },
+          "end_point": { "x": 1200.226745, "y": 3055.692171 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 3055.692171 },
+          "end_point": { "x": 1511.947112, "y": 2994.725729 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1200.226745, "y": 3055.692171 },
+          "end_point": { "x": 1511.947112, "y": 3055.692171 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2560.723883, "y": 3629.296517 },
+          "end_point": { "x": 2560.723883, "y": 3145.064714 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2560.723883, "y": 3145.064714 },
+          "end_point": { "x": 2560.723883, "y": 2577.464329 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2560.723883, "y": 3145.064714 },
+          "end_point": { "x": 2240.720686, "y": 3145.064714 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2240.720686, "y": 3145.064714 },
+          "end_point": { "x": 2240.720686, "y": 3055.692171 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 3055.692171 },
+          "end_point": { "x": 1913.5217, "y": 2994.725729 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2240.720686, "y": 3055.692171 },
+          "end_point": { "x": 1913.5217, "y": 3055.692171 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 2301.631124 },
+          "end_point": { "x": 1712.344856, "y": 2301.631124 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 2301.631124 },
+          "end_point": { "x": 1913.5217, "y": 2301.631124 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 2301.631124 },
+          "end_point": { "x": 1712.344856, "y": 1812.4911540000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 1812.4911540000003 },
+          "end_point": { "x": 1511.947112, "y": 1812.4911540000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 1812.4911540000003 },
+          "end_point": { "x": 1511.947112, "y": 1239.503178 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 1239.503178 },
+          "end_point": { "x": 1913.5217, "y": 1812.4911540000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 1812.4911540000003 },
+          "end_point": { "x": 1712.344856, "y": 1812.4911540000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 2058.383783 },
+          "end_point": { "x": 1511.947112, "y": 1942.4957410000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 2058.383783 },
+          "end_point": { "x": 1913.5217, "y": 1942.4957410000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 2058.383783 },
+          "end_point": { "x": 1913.5217, "y": 2058.383783 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 871.955484, "y": 2011.6076750000002 },
+          "end_point": { "x": 871.474722, "y": 2577.464329 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 871.955484, "y": 2011.6076750000002 },
+          "end_point": { "x": 1197.496259, "y": 2011.6076750000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1197.496259, "y": 2011.6076750000002 },
+          "end_point": { "x": 1197.496259, "y": 2092.021508 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 2164.268273 },
+          "end_point": { "x": 1511.947112, "y": 2092.021508 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 2092.021508 },
+          "end_point": { "x": 1511.947112, "y": 2058.383783 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1197.496259, "y": 2092.021508 },
+          "end_point": { "x": 1511.947112, "y": 2092.021508 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 2164.268273 },
+          "end_point": { "x": 1913.5217, "y": 2094.261052 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 2094.261052 },
+          "end_point": { "x": 1913.5217, "y": 2058.383783 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 2094.261052 },
+          "end_point": { "x": 2236.644695, "y": 2094.261052 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2236.644695, "y": 2094.261052 },
+          "end_point": { "x": 2236.644695, "y": 2009.158378 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2560.723883, "y": 2577.464329 },
+          "end_point": { "x": 2560.723883, "y": 2009.158378 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2236.644695, "y": 2009.158378 },
+          "end_point": { "x": 2560.723883, "y": 2009.158378 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2560.723883, "y": 2009.158378 },
+          "end_point": { "x": 2560.723883, "y": 1522.9590280000002 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 872.370649, "y": 1522.9590280000002 },
+          "end_point": { "x": 871.955484, "y": 2011.6076750000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2560.723883, "y": 1522.9590280000002 },
+          "end_point": { "x": 872.370649, "y": 1522.9590280000002 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2560.723883, "y": 1522.9590280000002 },
+          "end_point": { "x": 2560.723883, "y": 1041.7391289999996 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2560.723883, "y": 1041.7391289999996 },
+          "end_point": { "x": 2560.723883, "y": 459.48131600000033 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2560.723883, "y": 1041.7391289999996 },
+          "end_point": { "x": 2236.644695, "y": 1041.7391289999996 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2236.644695, "y": 1041.7391289999996 },
+          "end_point": { "x": 2236.644695, "y": 964.1597899999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 964.1597899999997 },
+          "end_point": { "x": 1913.5217, "y": 881.2301520000001 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2236.644695, "y": 964.1597899999997 },
+          "end_point": { "x": 1913.5217, "y": 964.1597899999997 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 873.274198, "y": 459.48131600000033 },
+          "end_point": { "x": 872.779502, "y": 1041.7391289999996 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 872.779502, "y": 1041.7391289999996 },
+          "end_point": { "x": 872.370649, "y": 1522.9590280000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 872.779502, "y": 1041.7391289999996 },
+          "end_point": { "x": 1197.496259, "y": 1041.7391289999996 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1197.496259, "y": 1041.7391289999996 },
+          "end_point": { "x": 1197.496259, "y": 964.1597899999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 964.1597899999997 },
+          "end_point": { "x": 1511.947112, "y": 881.2301520000001 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 1239.503178 },
+          "end_point": { "x": 1712.344856, "y": 1239.503178 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1197.496259, "y": 964.1597899999997 },
+          "end_point": { "x": 1511.947112, "y": 964.1597899999997 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1511.947112, "y": 459.48131600000033 },
+          "end_point": { "x": 873.274198, "y": 459.48131600000033 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 768.8738670000002 },
+          "end_point": { "x": 1511.947112, "y": 459.48131600000033 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 1108.61787 },
+          "end_point": { "x": 1511.947112, "y": 1002.8690909999996 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 1002.8690909999996 },
+          "end_point": { "x": 1511.947112, "y": 964.1597899999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 1108.61787 },
+          "end_point": { "x": 1913.5217, "y": 1002.8690909999996 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 1002.8690909999996 },
+          "end_point": { "x": 1913.5217, "y": 964.1597899999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 1002.8690909999996 },
+          "end_point": { "x": 1913.5217, "y": 1002.8690909999996 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 1239.503178 },
+          "end_point": { "x": 1913.5217, "y": 1239.503178 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 1239.503178 },
+          "end_point": { "x": 1712.344856, "y": 768.8738670000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 768.8738670000002 },
+          "end_point": { "x": 1913.5217, "y": 768.8738670000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1712.344856, "y": 768.8738670000002 },
+          "end_point": { "x": 1511.947112, "y": 768.8738670000002 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2560.723883, "y": 459.48131600000033 },
+          "end_point": { "x": 1913.5217, "y": 459.48131600000033 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1913.5217, "y": 459.48131600000033 },
+          "end_point": { "x": 1511.947112, "y": 459.48131600000033 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 768.8738670000002 },
+          "end_point": { "x": 1913.5217, "y": 459.48131600000033 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 3202.011631 },
+          "end_point": { "x": 1511.947112, "y": 3101.715456 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 3101.715456 },
+          "end_point": { "x": 1511.947112, "y": 3055.692171 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 3202.011631 },
+          "end_point": { "x": 1913.5217, "y": 3101.715456 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1913.5217, "y": 3101.715456 },
+          "end_point": { "x": 1913.5217, "y": 3055.692171 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1511.947112, "y": 3101.715456 },
+          "end_point": { "x": 1913.5217, "y": 3101.715456 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2819.311457, "y": 4942.688026 },
+          "end_point": { "x": 2819.311457, "y": 5574.873974 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3100.30524, "y": 4942.688026 },
+          "end_point": { "x": 2819.311457, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2819.311457, "y": 3894.05474 },
+          "end_point": { "x": 2819.311457, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2819.311457, "y": 4529.703296 },
+          "end_point": { "x": 2819.311457, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3100.30524, "y": 4529.703296 },
+          "end_point": { "x": 2819.311457, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3588.088873, "y": 4529.703296 },
+          "end_point": { "x": 4152.05657, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4152.05657, "y": 4942.688026 },
+          "end_point": { "x": 3588.088873, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4648.440044, "y": 4529.703296 },
+          "end_point": { "x": 5207.273917, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5207.273917, "y": 4942.688026 },
+          "end_point": { "x": 4648.440044, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5702.34822, "y": 4942.688026 },
+          "end_point": { "x": 6261.182093, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6261.182093, "y": 4529.703296 },
+          "end_point": { "x": 5702.34822, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 7046.223732, "y": 4529.703296 },
+          "end_point": { "x": 7046.223732, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 7046.223732, "y": 4529.703296 },
+          "end_point": { "x": 6752.505833, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 7046.223732, "y": 5574.873974 },
+          "end_point": { "x": 7046.223732, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 7046.223732, "y": 4942.688026 },
+          "end_point": { "x": 7046.223732, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6752.505833, "y": 4942.688026 },
+          "end_point": { "x": 7046.223732, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 7046.223732, "y": 3894.05474 },
+          "end_point": { "x": 6541.921675, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6541.921675, "y": 3894.05474 },
+          "end_point": { "x": 6541.921675, "y": 4224.997588 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6541.921675, "y": 4224.997588 },
+          "end_point": { "x": 6461.654353, "y": 4224.997588 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4288.440915, "y": 4529.703296 },
+          "end_point": { "x": 4356.180763, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4356.180763, "y": 4529.703296 },
+          "end_point": { "x": 4356.180763, "y": 4224.997588 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3308.589309, "y": 4224.997588 },
+          "end_point": { "x": 3388.856631, "y": 4224.997588 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6548.783046, "y": 5249.194056 },
+          "end_point": { "x": 6458.681752, "y": 5249.194056 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5496.528651, "y": 5574.873974 },
+          "end_point": { "x": 5496.528651, "y": 5249.194056 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4288.440915, "y": 4942.688026 },
+          "end_point": { "x": 4356.180763, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4356.180763, "y": 5249.194056 },
+          "end_point": { "x": 4356.180763, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3393.628811, "y": 5249.194056 },
+          "end_point": { "x": 3308.589309, "y": 5249.194056 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3308.589309, "y": 4942.688026 },
+          "end_point": { "x": 3350.187116, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3350.187116, "y": 4942.688026 },
+          "end_point": { "x": 3467.065816, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3308.589309, "y": 4529.703296 },
+          "end_point": { "x": 3350.187116, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3350.187116, "y": 4529.703296 },
+          "end_point": { "x": 3455.327201, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3350.187116, "y": 4942.688026 },
+          "end_point": { "x": 3350.187116, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6388.701231, "y": 4529.703296 },
+          "end_point": { "x": 6461.654353, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6461.654353, "y": 4224.997588 },
+          "end_point": { "x": 6461.654353, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5349.795307, "y": 4529.703296 },
+          "end_point": { "x": 5414.062899, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5414.062899, "y": 4529.703296 },
+          "end_point": { "x": 5414.062899, "y": 4224.997588 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5492.272084, "y": 4224.997588 },
+          "end_point": { "x": 5492.272084, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4356.180763, "y": 4224.997588 },
+          "end_point": { "x": 4442.622494, "y": 4224.997588 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3237.966817, "y": 4529.703296 },
+          "end_point": { "x": 3308.589309, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3308.589309, "y": 4529.703296 },
+          "end_point": { "x": 3308.589309, "y": 4224.997588 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3388.856631, "y": 3894.05474 },
+          "end_point": { "x": 2819.311457, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3388.856631, "y": 4224.997588 },
+          "end_point": { "x": 3388.856631, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5496.528651, "y": 5249.194056 },
+          "end_point": { "x": 5411.254212, "y": 5249.194056 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4442.665304, "y": 5574.873974 },
+          "end_point": { "x": 4442.665304, "y": 5249.194056 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3237.966817, "y": 4942.688026 },
+          "end_point": { "x": 3308.589309, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3308.589309, "y": 5249.194056 },
+          "end_point": { "x": 3308.589309, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5414.062899, "y": 4224.997588 },
+          "end_point": { "x": 5492.272084, "y": 4224.997588 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4442.622494, "y": 4224.997588 },
+          "end_point": { "x": 4442.622494, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 6548.783046, "y": 5574.873974 },
+          "end_point": { "x": 7046.223732, "y": 5574.873974 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6548.783046, "y": 5574.873974 },
+          "end_point": { "x": 6548.783046, "y": 5249.194056 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6388.701231, "y": 4942.688026 },
+          "end_point": { "x": 6458.681752, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6458.681752, "y": 5249.194056 },
+          "end_point": { "x": 6458.681752, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5349.795307, "y": 4942.688026 },
+          "end_point": { "x": 5411.254212, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5411.254212, "y": 5249.194056 },
+          "end_point": { "x": 5411.254212, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4442.665304, "y": 5249.194056 },
+          "end_point": { "x": 4356.180763, "y": 5249.194056 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2819.311457, "y": 5574.873974 },
+          "end_point": { "x": 3393.628811, "y": 5574.873974 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3393.628811, "y": 5574.873974 },
+          "end_point": { "x": 3393.628811, "y": 5249.194056 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3100.30524, "y": 4529.703296 },
+          "end_point": { "x": 3100.30524, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3100.30524, "y": 4734.32952 },
+          "end_point": { "x": 3100.30524, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3588.088873, "y": 4942.688026 },
+          "end_point": { "x": 3588.088873, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3588.088873, "y": 4734.32952 },
+          "end_point": { "x": 3588.088873, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3100.30524, "y": 4734.32952 },
+          "end_point": { "x": 3588.088873, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4152.05657, "y": 4529.703296 },
+          "end_point": { "x": 4152.05657, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4152.05657, "y": 4734.32952 },
+          "end_point": { "x": 4152.05657, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4648.440044, "y": 4942.688026 },
+          "end_point": { "x": 4648.440044, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4648.440044, "y": 4734.32952 },
+          "end_point": { "x": 4648.440044, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4152.05657, "y": 4734.32952 },
+          "end_point": { "x": 4648.440044, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4356.180763, "y": 4942.688026 },
+          "end_point": { "x": 4399.223608, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4399.223608, "y": 4942.688026 },
+          "end_point": { "x": 4509.604717, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4356.180763, "y": 4529.703296 },
+          "end_point": { "x": 4399.223608, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4399.223608, "y": 4529.703296 },
+          "end_point": { "x": 4509.604717, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4399.223608, "y": 4942.688026 },
+          "end_point": { "x": 4399.223608, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5702.34822, "y": 4529.703296 },
+          "end_point": { "x": 5702.34822, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5702.34822, "y": 4734.32952 },
+          "end_point": { "x": 5702.34822, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5207.273917, "y": 4529.703296 },
+          "end_point": { "x": 5207.273917, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5207.273917, "y": 4734.32952 },
+          "end_point": { "x": 5207.273917, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5702.34822, "y": 4734.32952 },
+          "end_point": { "x": 5207.273917, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5411.254212, "y": 4942.688026 },
+          "end_point": { "x": 5449.869052, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5449.869052, "y": 4942.688026 },
+          "end_point": { "x": 5556.076267, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5414.062899, "y": 4529.703296 },
+          "end_point": { "x": 5449.869052, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5449.869052, "y": 4529.703296 },
+          "end_point": { "x": 5556.076267, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5449.869052, "y": 4942.688026 },
+          "end_point": { "x": 5449.869052, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6458.681752, "y": 4942.688026 },
+          "end_point": { "x": 6506.950303, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6506.950303, "y": 4942.688026 },
+          "end_point": { "x": 6613.735006, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6461.654353, "y": 4529.703296 },
+          "end_point": { "x": 6506.950303, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6506.950303, "y": 4529.703296 },
+          "end_point": { "x": 6613.735006, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6506.950303, "y": 4942.688026 },
+          "end_point": { "x": 6506.950303, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6261.182093, "y": 4942.688026 },
+          "end_point": { "x": 6261.182093, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6261.182093, "y": 4734.32952 },
+          "end_point": { "x": 6261.182093, "y": 4529.703296 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6752.505833, "y": 4529.703296 },
+          "end_point": { "x": 6752.505833, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6752.505833, "y": 4734.32952 },
+          "end_point": { "x": 6752.505833, "y": 4942.688026 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6261.182093, "y": 4734.32952 },
+          "end_point": { "x": 6752.505833, "y": 4734.32952 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5496.528651, "y": 5574.873974 },
+          "end_point": { "x": 5978.889645, "y": 5574.873974 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5978.889645, "y": 5574.873974 },
+          "end_point": { "x": 6548.783046, "y": 5574.873974 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 6541.921675, "y": 3894.05474 },
+          "end_point": { "x": 5978.889645, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5978.889645, "y": 3894.05474 },
+          "end_point": { "x": 5492.272084, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5978.889645, "y": 5574.873974 },
+          "end_point": { "x": 5978.889645, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4442.665304, "y": 5574.873974 },
+          "end_point": { "x": 4926.518453, "y": 5574.873974 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4926.518453, "y": 5574.873974 },
+          "end_point": { "x": 5496.528651, "y": 5574.873974 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5492.272084, "y": 3894.05474 },
+          "end_point": { "x": 4926.518453, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4926.518453, "y": 3894.05474 },
+          "end_point": { "x": 4442.622494, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4926.518453, "y": 5574.873974 },
+          "end_point": { "x": 4926.518453, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3393.628811, "y": 5574.873974 },
+          "end_point": { "x": 3874.147262, "y": 5574.873974 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3874.147262, "y": 5574.873974 },
+          "end_point": { "x": 4442.665304, "y": 5574.873974 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4442.622494, "y": 3894.05474 },
+          "end_point": { "x": 3874.147262, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3874.147262, "y": 3894.05474 },
+          "end_point": { "x": 3388.856631, "y": 3894.05474 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3874.147262, "y": 5574.873974 },
+          "end_point": { "x": 3874.147262, "y": 3894.05474 }
+        }
+      ]
+    },
+    {
+      "name": "3rd Floor",
+      "map_uri": "file://images/PALOB_3rd Floor.png",
+      "project_name": "PALOB",
+      "floor_id": "b4b963ad-1507-44c4-ab7f-c3a2dba0a736",
+      "rotation": 0,
+      "dimensions": [
+        { "length": 6000, "width": 8000, "unit": "pixels" },
+        {
+          "length": 44.05031498347946,
+          "width": 58.73375331130595,
+          "height": 2.5,
+          "unit": "meters"
+        },
+        {
+          "length": 144.52027339779943,
+          "width": 192.69369786373255,
+          "height": 8.202,
+          "unit": "feet"
+        }
+      ],
+      "wall_segments": [
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3876.675622, "y": 5578.903715 },
+          "end_point": { "x": 3876.675622, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4930.359597, "y": 5578.903715 },
+          "end_point": { "x": 4930.359597, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5977.430494, "y": 5578.903715 },
+          "end_point": { "x": 5977.430494, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 7044.050087, "y": 5578.903715 },
+          "end_point": { "x": 6460.185286, "y": 5578.903715 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 6460.185286, "y": 5578.903715 },
+          "end_point": { "x": 5977.430494, "y": 5578.903715 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6460.185286, "y": 5578.903715 },
+          "end_point": { "x": 6460.185286, "y": 5249.747404 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6460.185286, "y": 5249.747404 },
+          "end_point": { "x": 6542.848778, "y": 5249.747404 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5977.430494, "y": 3891.012471 },
+          "end_point": { "x": 6460.185286, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 6460.185286, "y": 3891.012471 },
+          "end_point": { "x": 7044.050087, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6460.185286, "y": 3891.012471 },
+          "end_point": { "x": 6460.185286, "y": 4221.413566 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6460.185286, "y": 4221.413566 },
+          "end_point": { "x": 6542.848778, "y": 4221.413566 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6542.848778, "y": 4221.413566 },
+          "end_point": { "x": 6542.848778, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4930.359597, "y": 3891.012471 },
+          "end_point": { "x": 5408.70567, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5408.70567, "y": 3891.012471 },
+          "end_point": { "x": 5977.430494, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5408.70567, "y": 3891.012471 },
+          "end_point": { "x": 5408.70567, "y": 4221.413566 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5408.70567, "y": 4221.413566 },
+          "end_point": { "x": 5494.675702, "y": 4221.413566 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3876.675622, "y": 3891.012471 },
+          "end_point": { "x": 4357.226054, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4357.226054, "y": 3891.012471 },
+          "end_point": { "x": 4930.359597, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4357.226054, "y": 3891.012471 },
+          "end_point": { "x": 4357.226054, "y": 4221.413566 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5494.675702, "y": 4221.413566 },
+          "end_point": { "x": 5494.675702, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4357.226054, "y": 4221.413566 },
+          "end_point": { "x": 4446.502625, "y": 4221.413566 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4446.502625, "y": 4221.413566 },
+          "end_point": { "x": 4446.502625, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4930.359597, "y": 5578.903715 },
+          "end_point": { "x": 4357.226054, "y": 5578.903715 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 4357.226054, "y": 5578.903715 },
+          "end_point": { "x": 3876.675622, "y": 5578.903715 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4357.226054, "y": 5578.903715 },
+          "end_point": { "x": 4357.226054, "y": 5249.747404 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4357.226054, "y": 5249.747404 },
+          "end_point": { "x": 4446.502625, "y": 5249.747404 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4446.502625, "y": 5249.747404 },
+          "end_point": { "x": 4446.502625, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3876.675622, "y": 5578.903715 },
+          "end_point": { "x": 3302.439899, "y": 5578.903715 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3302.439899, "y": 5578.903715 },
+          "end_point": { "x": 2811.122438, "y": 5578.903715 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3302.439899, "y": 5578.903715 },
+          "end_point": { "x": 3302.439899, "y": 5249.747404 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3302.439899, "y": 5249.747404 },
+          "end_point": { "x": 3391.71647, "y": 5249.747404 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3391.71647, "y": 5249.747404 },
+          "end_point": { "x": 3391.71647, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2815.247294, "y": 3891.012471 },
+          "end_point": { "x": 3302.439899, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 3302.439899, "y": 3891.012471 },
+          "end_point": { "x": 3876.675622, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3302.439899, "y": 3891.012471 },
+          "end_point": { "x": 3302.439899, "y": 4221.413566 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3302.439899, "y": 4221.413566 },
+          "end_point": { "x": 3391.71647, "y": 4221.413566 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3391.71647, "y": 4221.413566 },
+          "end_point": { "x": 3391.71647, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2811.122438, "y": 5578.903715 },
+          "end_point": { "x": 2812.694475, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3107.354058, "y": 4935.626135 },
+          "end_point": { "x": 2812.694475, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3593.41539, "y": 4935.626135 },
+          "end_point": { "x": 4162.140213, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4641.588466, "y": 4935.626135 },
+          "end_point": { "x": 5207.00675, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5686.455003, "y": 4935.626135 },
+          "end_point": { "x": 6258.486366, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6542.848778, "y": 4935.626135 },
+          "end_point": { "x": 6615.592651, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 7044.050087, "y": 4935.626135 },
+          "end_point": { "x": 7044.050087, "y": 5578.903715 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6764.386936, "y": 4935.626135 },
+          "end_point": { "x": 7044.050087, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6542.848778, "y": 5249.747404 },
+          "end_point": { "x": 6542.848778, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 7044.050087, "y": 3891.012471 },
+          "end_point": { "x": 7044.050087, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 7044.050087, "y": 4532.228295 },
+          "end_point": { "x": 7044.050087, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 7044.050087, "y": 4532.228295 },
+          "end_point": { "x": 6764.386936, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6258.486366, "y": 4532.228295 },
+          "end_point": { "x": 5686.455003, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6764.386936, "y": 4935.626135 },
+          "end_point": { "x": 6764.386936, "y": 4733.927215 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6764.386936, "y": 4733.927215 },
+          "end_point": { "x": 6764.386936, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6258.486366, "y": 4935.626135 },
+          "end_point": { "x": 6258.486366, "y": 4733.927215 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6258.486366, "y": 4733.927215 },
+          "end_point": { "x": 6258.486366, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6764.386936, "y": 4733.927215 },
+          "end_point": { "x": 6258.486366, "y": 4733.927215 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6390.747953, "y": 4532.228295 },
+          "end_point": { "x": 6503.170302, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6503.170302, "y": 4532.228295 },
+          "end_point": { "x": 6615.592651, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6390.747953, "y": 4935.626135 },
+          "end_point": { "x": 6503.170302, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6503.170302, "y": 4935.626135 },
+          "end_point": { "x": 6542.848778, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 6503.170302, "y": 4532.228295 },
+          "end_point": { "x": 6503.170302, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5329.348718, "y": 4935.626135 },
+          "end_point": { "x": 5451.690686, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5451.690686, "y": 4935.626135 },
+          "end_point": { "x": 5451.690686, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5451.690686, "y": 4532.228295 },
+          "end_point": { "x": 5344.500146, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5451.690686, "y": 4532.228295 },
+          "end_point": { "x": 5564.113035, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5977.430494, "y": 5578.903715 },
+          "end_point": { "x": 5408.70567, "y": 5578.903715 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 5408.70567, "y": 5578.903715 },
+          "end_point": { "x": 4930.359597, "y": 5578.903715 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5408.70567, "y": 5578.903715 },
+          "end_point": { "x": 5408.70567, "y": 5249.747404 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5408.70567, "y": 5249.747404 },
+          "end_point": { "x": 5494.675702, "y": 5249.747404 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5451.690686, "y": 4935.626135 },
+          "end_point": { "x": 5494.675702, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5494.675702, "y": 4935.626135 },
+          "end_point": { "x": 5564.113035, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5494.675702, "y": 5249.747404 },
+          "end_point": { "x": 5494.675702, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5207.00675, "y": 4532.228295 },
+          "end_point": { "x": 4641.588466, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4641.588466, "y": 4532.228295 },
+          "end_point": { "x": 4641.588466, "y": 4736.217163 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4641.588466, "y": 4736.217163 },
+          "end_point": { "x": 4641.588466, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4641.588466, "y": 4736.217163 },
+          "end_point": { "x": 4162.140213, "y": 4736.217163 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4162.140213, "y": 4935.626135 },
+          "end_point": { "x": 4162.140213, "y": 4540.797922 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4162.140213, "y": 4540.797922 },
+          "end_point": { "x": 3593.41539, "y": 4540.797922 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4284.482181, "y": 4935.626135 },
+          "end_point": { "x": 4402.822038, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4402.822038, "y": 4935.626135 },
+          "end_point": { "x": 4519.246498, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4402.822038, "y": 4935.626135 },
+          "end_point": { "x": 4402.822038, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4402.822038, "y": 4532.228295 },
+          "end_point": { "x": 4519.246498, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 4284.482181, "y": 4532.228295 },
+          "end_point": { "x": 4402.822038, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3107.354058, "y": 4935.626135 },
+          "end_point": { "x": 3107.354058, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3249.535264, "y": 4935.626135 },
+          "end_point": { "x": 3350.956731, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3350.956731, "y": 4935.626135 },
+          "end_point": { "x": 3467.766882, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3593.41539, "y": 4540.797922 },
+          "end_point": { "x": 3593.41539, "y": 4736.217163 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3593.41539, "y": 4736.217163 },
+          "end_point": { "x": 3593.41539, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3593.41539, "y": 4736.217163 },
+          "end_point": { "x": 3107.354058, "y": 4736.217163 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2812.694475, "y": 4935.626135 },
+          "end_point": { "x": 2813.680296, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2813.680296, "y": 4532.228295 },
+          "end_point": { "x": 2815.247294, "y": 3891.012471 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3107.354058, "y": 4532.228295 },
+          "end_point": { "x": 2813.680296, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3350.956731, "y": 4532.228295 },
+          "end_point": { "x": 3230.30659, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3350.956731, "y": 4532.228295 },
+          "end_point": { "x": 3458.012489, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1514.102296, "y": 458.09838800000034 },
+          "end_point": { "x": 1916.577243, "y": 458.09838800000034 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1916.577243, "y": 458.09838800000034 },
+          "end_point": { "x": 2564.761848, "y": 458.09838800000034 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1916.577243, "y": 762.008425 },
+          "end_point": { "x": 1916.577243, "y": 458.09838800000034 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 762.008425 },
+          "end_point": { "x": 1714.041463, "y": 762.008425 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1714.041463, "y": 762.008425 },
+          "end_point": { "x": 1916.577243, "y": 762.008425 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1714.041463, "y": 762.008425 },
+          "end_point": { "x": 1714.041463, "y": 1239.785135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1714.041463, "y": 1239.785135 },
+          "end_point": { "x": 1514.102296, "y": 1239.785135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 3350.956731, "y": 4935.626135 },
+          "end_point": { "x": 3350.956731, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 871.614462, "y": 458.09838800000034 },
+          "end_point": { "x": 1514.102296, "y": 458.09838800000034 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 458.09838800000034 },
+          "end_point": { "x": 1514.102296, "y": 762.008425 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1916.577243, "y": 1811.0398969999997 },
+          "end_point": { "x": 1916.577243, "y": 1239.785135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1916.577243, "y": 1239.785135 },
+          "end_point": { "x": 1714.041463, "y": 1239.785135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 1239.785135 },
+          "end_point": { "x": 1514.102296, "y": 1525.4125160000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 1525.4125160000003 },
+          "end_point": { "x": 1514.102296, "y": 1811.0398969999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 1525.4125160000003 },
+          "end_point": { "x": 2564.761848, "y": 1525.4125160000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 872.580951, "y": 1525.4125160000003 },
+          "end_point": { "x": 1514.102296, "y": 1525.4125160000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 1105.849349 },
+          "end_point": { "x": 1514.102296, "y": 999.6894190000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1916.577243, "y": 1105.849349 },
+          "end_point": { "x": 1916.577243, "y": 999.6894190000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 999.6894190000003 },
+          "end_point": { "x": 1916.577243, "y": 999.6894190000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1510.548289, "y": 2294.113195 },
+          "end_point": { "x": 1510.548289, "y": 2859.960217 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 873.533238, "y": 2577.042126 },
+          "end_point": { "x": 2564.761848, "y": 2577.042126 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1921.064756, "y": 2859.960217 },
+          "end_point": { "x": 1921.064756, "y": 2294.113195 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1921.064756, "y": 2294.113195 },
+          "end_point": { "x": 1713.237444, "y": 2294.113195 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1713.237444, "y": 2294.113195 },
+          "end_point": { "x": 1510.548289, "y": 2294.113195 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 1811.0398969999997 },
+          "end_point": { "x": 1713.237444, "y": 1811.0398969999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1713.237444, "y": 1811.0398969999997 },
+          "end_point": { "x": 1916.577243, "y": 1811.0398969999997 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1713.237444, "y": 2294.113195 },
+          "end_point": { "x": 1713.237444, "y": 1811.0398969999997 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1517.099775, "y": 4362.099575 },
+          "end_point": { "x": 875.149667, "y": 4362.099575 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1517.099775, "y": 4362.099575 },
+          "end_point": { "x": 1517.099775, "y": 3351.046778 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2564.761848, "y": 4362.099575 },
+          "end_point": { "x": 1917.781013, "y": 4362.099575 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 1917.781013, "y": 4362.099575 },
+          "end_point": { "x": 1517.099775, "y": 4362.099575 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1917.781013, "y": 3351.046778 },
+          "end_point": { "x": 1917.781013, "y": 4362.099575 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 875.149667, "y": 4362.099575 },
+          "end_point": { "x": 874.487849, "y": 3631.239244 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2564.761848, "y": 3631.239244 },
+          "end_point": { "x": 2564.761848, "y": 4362.099575 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 874.487849, "y": 3631.239244 },
+          "end_point": { "x": 2564.761848, "y": 3631.239244 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1517.099775, "y": 3351.046778 },
+          "end_point": { "x": 1718.42084, "y": 3351.046778 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1718.42084, "y": 3351.046778 },
+          "end_point": { "x": 1917.781013, "y": 3351.046778 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1510.548289, "y": 2859.960217 },
+          "end_point": { "x": 1718.42084, "y": 2859.960217 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1718.42084, "y": 2859.960217 },
+          "end_point": { "x": 1921.064756, "y": 2859.960217 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1718.42084, "y": 3351.046778 },
+          "end_point": { "x": 1718.42084, "y": 2859.960217 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1510.548289, "y": 3103.550153 },
+          "end_point": { "x": 1917.781013, "y": 3103.550153 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1510.548289, "y": 2049.436148 },
+          "end_point": { "x": 1916.577243, "y": 2049.436148 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5207.00675, "y": 4935.626135 },
+          "end_point": { "x": 5207.00675, "y": 4736.217163 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5207.00675, "y": 4736.217163 },
+          "end_point": { "x": 5207.00675, "y": 4532.228295 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5686.455003, "y": 4532.228295 },
+          "end_point": { "x": 5686.455003, "y": 4736.217163 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5686.455003, "y": 4736.217163 },
+          "end_point": { "x": 5686.455003, "y": 4935.626135 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 5207.00675, "y": 4736.217163 },
+          "end_point": { "x": 5686.455003, "y": 4736.217163 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 874.487849, "y": 3631.239244 },
+          "end_point": { "x": 874.047279, "y": 3144.709273 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 874.047279, "y": 3144.709273 },
+          "end_point": { "x": 873.533238, "y": 2577.042126 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 874.047279, "y": 3144.709273 },
+          "end_point": { "x": 1199.964657, "y": 3144.709273 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1199.964657, "y": 3144.709273 },
+          "end_point": { "x": 1199.964657, "y": 3064.456175 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1199.964657, "y": 3064.456175 },
+          "end_point": { "x": 1510.548289, "y": 3064.456175 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1517.099775, "y": 3214.094343 },
+          "end_point": { "x": 1517.099775, "y": 2984.215418 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1921.064756, "y": 3214.094343 },
+          "end_point": { "x": 1921.064756, "y": 3064.456175 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1921.064756, "y": 3064.456175 },
+          "end_point": { "x": 1921.064756, "y": 2984.215418 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1921.064756, "y": 3064.456175 },
+          "end_point": { "x": 2232.251146, "y": 3064.456175 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2232.251146, "y": 3064.456175 },
+          "end_point": { "x": 2232.251146, "y": 3144.709273 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2564.761848, "y": 2577.042126 },
+          "end_point": { "x": 2564.761848, "y": 3144.709273 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2564.761848, "y": 3144.709273 },
+          "end_point": { "x": 2564.761848, "y": 3631.239244 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2232.251146, "y": 3144.709273 },
+          "end_point": { "x": 2564.761848, "y": 3144.709273 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1199.964657, "y": 2090.459858 },
+          "end_point": { "x": 1199.964657, "y": 2010.7310499999999 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2564.761848, "y": 1525.4125160000003 },
+          "end_point": { "x": 2564.761848, "y": 2090.459858 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2564.761848, "y": 2090.459858 },
+          "end_point": { "x": 2564.761848, "y": 2577.042126 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2564.761848, "y": 2090.459858 },
+          "end_point": { "x": 2232.251146, "y": 2090.459858 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2564.761848, "y": 458.09838800000034 },
+          "end_point": { "x": 2564.761848, "y": 1039.664025 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 2564.761848, "y": 1039.664025 },
+          "end_point": { "x": 2564.761848, "y": 1525.4125160000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2564.761848, "y": 1039.664025 },
+          "end_point": { "x": 2230.979326, "y": 1039.664025 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1916.577243, "y": 999.6894190000003 },
+          "end_point": { "x": 1916.577243, "y": 955.8382190000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1916.577243, "y": 955.8382190000002 },
+          "end_point": { "x": 1916.577243, "y": 881.5531199999996 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2230.979326, "y": 955.8382190000002 },
+          "end_point": { "x": 1916.577243, "y": 955.8382190000002 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 873.533238, "y": 2577.042126 },
+          "end_point": { "x": 873.092621, "y": 2090.459858 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 873.092621, "y": 2090.459858 },
+          "end_point": { "x": 872.580951, "y": 1525.4125160000003 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 873.092621, "y": 2090.459858 },
+          "end_point": { "x": 1199.964657, "y": 2090.459858 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 2166.102863 },
+          "end_point": { "x": 1514.102296, "y": 2010.7310499999999 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 2010.7310499999999 },
+          "end_point": { "x": 1514.102296, "y": 1937.1338759999999 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1199.964657, "y": 2010.7310499999999 },
+          "end_point": { "x": 1514.102296, "y": 2010.7310499999999 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2232.251146, "y": 2090.459858 },
+          "end_point": { "x": 2232.251146, "y": 2010.7310499999999 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1921.064756, "y": 2166.102863 },
+          "end_point": { "x": 1921.064756, "y": 2010.7310499999999 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1921.064756, "y": 2010.7310499999999 },
+          "end_point": { "x": 1921.064756, "y": 1937.1338759999999 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2232.251146, "y": 2010.7310499999999 },
+          "end_point": { "x": 1921.064756, "y": 2010.7310499999999 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 872.580951, "y": 1525.4125160000003 },
+          "end_point": { "x": 872.14109, "y": 1039.664025 }
+        },
+        {
+          "wall_type": "Concrete",
+          "start_point": { "x": 872.14109, "y": 1039.664025 },
+          "end_point": { "x": 871.614462, "y": 458.09838800000034 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 872.14109, "y": 1039.664025 },
+          "end_point": { "x": 1200.618886, "y": 1039.664025 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1200.618886, "y": 1039.664025 },
+          "end_point": { "x": 1200.618886, "y": 955.8382190000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 999.6894190000003 },
+          "end_point": { "x": 1514.102296, "y": 955.8382190000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1514.102296, "y": 955.8382190000002 },
+          "end_point": { "x": 1514.102296, "y": 881.5531199999996 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 1200.618886, "y": 955.8382190000002 },
+          "end_point": { "x": 1514.102296, "y": 955.8382190000002 }
+        },
+        {
+          "wall_type": "Drywall",
+          "start_point": { "x": 2230.979326, "y": 1039.664025 },
+          "end_point": { "x": 2230.979326, "y": 955.8382190000002 }
+        }
+      ]
+    }
+  ],
+  "wall_materials": [
+    {
+      "name": "Drywall",
+      "itu_material_type": "ITU_R_PLASTERBOARD",
+      "rf_properties": { "attenuation_flat": 3, "attenuation_per_m": 30 },
+      "thickness_m": 0.1,
+      "display_color": "#937E75"
+    },
+    {
+      "name": "Concrete",
+      "itu_material_type": "ITU_R_CONCRETE",
+      "rf_properties": { "attenuation_flat": 15, "attenuation_per_m": 125 },
+      "thickness_m": 0.12,
+      "display_color": "#72E067"
+    }
+  ]
+}
